@@ -47,6 +47,6 @@ Namespace WebApplication1
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxComboBox1 As Global.DevExpress.Web.ASPxEditors.ASPxComboBox
+		Protected ASPxComboBox1 As Global.DevExpress.Web.ASPxComboBox
 	End Class
 End Namespace
